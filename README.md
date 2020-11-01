@@ -1,38 +1,37 @@
-## GwonHeeJun @GwonHeeJun
+### Hi there, I'm HeeJun! 👋
 
-👋 Hello! I am a junior front-end developer, who working at mobility start-up, The swing.
+<div align=center>
 
-Gwangju Software Meister High School participated in the dormitory management page and outsourced staff to carry out various projects.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/heejun-gwon-58014917b/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/heejun.gwon.739/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/dev_heejun/) 
+[![Gmail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developer_gwon@naver.com)](mailto:developer_gwon@naver.com)
+</div>
 
-I'm developing my skills as a Front-end job.
+<div align=center>
 
-We are developing web pages using React and hybrid apps using React Native.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwonHeeJun)](https://hits.seeyoufarm.com) 
 
-We are working on some projects by ourselves, from planning to developing to distributing them.
+</div>
 
-We are not only working on the front-end, but also working on the back-end and design line to develop understanding of various job groups.
+### Full Stack Engineer
 
-I was able to understand the UI components that can be recycled while collaborating on the design part in some projects.
+- Full Stack Engineer in SWING Mobility Co, LTD (Mobility - Personal Mobility, Electric Scooter) 
 
-Also, I learned the importance of communicating with other job groups while receiving orders from various companies.
+- Full Stack Engineer in Vidyssey (Video Asset Commerce Platform)
 
-Meet regularly and communicate with each other on a project.
+- Full Stack Enginner in Outliers (Social Network Service Platform)
 
-It also builds the ability to utilize collaboration tools such as slacks and knots and applies them to various projects.
+- Front End Engineer in Mckinley&Rice (Outsourcing Platform)
 
-Almost all projects are managed and in progress using the GitHub.
+- Front End Engineer in Wonderberry (Game Platform)
 
-### 💼 Career
-- Full-stack Developer at [**The Swing**](https://theswing.co.kr/): 2020.07 ~ Current ( Permanent Employee )
-- Front-end Developer at [**Vidyssey**](http://vidyssey.com/): 2020.04 ~ 2020.07 ( Freelance )
-- Front-end Developer at [**Mckinley&Rice**](https://www.mckinleyrice.com/): 2019.11 ~ 2020.01 ( Intern )
-- Front-end Developer at [**Wonderberry**](https://mysuple.com/): 2019.07 ~ 2019.11 ( Intern ) 
+**Languages and Tools:**  
 
-### 💻 Languages
-- Node.js (advanced)
-- React (advanced)
-- Typescript (intermediate)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-### 📬 Contacts
-- linkedin: https://www.linkedin.com/in/heejun-gwon-58014917b/
-- email: developer_gwon@naver.com
+
