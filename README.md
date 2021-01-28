@@ -10,6 +10,8 @@
 
 ### Full Stack Engineer
 
+- Full Stack Engineer in Bridged, Co-founder
+
 - Full Stack Engineer in SWING Mobility Co, LTD (Mobility - Personal Mobility, Electric Scooter) 
 
 - Full Stack Engineer in Vidyssey (Video Asset Commerce Platform)
