@@ -10,7 +10,7 @@
 
 ### Full Stack Engineer
 
-- Full Stack Engineer in Bridged, Co-founder
+- CTO in Platinum Bridge Co, LTD ( Influencer Commerce Platform )
 
 - Full Stack Engineer in SWING Mobility Co, LTD (Mobility - Personal Mobility, Electric Scooter) 
 
