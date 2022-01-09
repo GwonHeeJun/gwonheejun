@@ -1,7 +1,7 @@
 ### Hi there, I'm HeeJunGwon! 👋
 
 
-Work in Software Engineer in @Commerce-Labs
+Work in Software Engineer in [@Commerce-Labs](https://github.com/Commerce-Labs)
 
 > A person who goes on a path that no one in the world has ever been to.
 
