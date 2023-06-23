@@ -1,7 +1,7 @@
 ### Hi there, I'm HeeJunGwon! 👋
 
 
-Work in Software Engineer in [@ejnkr](https://github.com/ejnkr)
+Work in Software Engineer in [@humelo](https://github.com/humelo)
 
 > A person who goes on a path that no one in the world has ever been to.
 
