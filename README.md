@@ -1,7 +1,7 @@
 ### Hi there, I'm HeeJunGwon! 👋
 
 
-Work in Software Engineer in [@pianokiwis](https://github.com/clebrain)
+Work in Software Engineer 
 
 > A person who goes on a path that no one in the world has ever been to.
 
